@@ -17,9 +17,6 @@
 <img src="https://github.com/Yongqi10/Flixster/blob/main/2.gif" width=250><br>
 
 
-### Notes
-Describe any challenges encountered while building the app.
-
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
