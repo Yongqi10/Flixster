@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/q8659/AndroidStudioProjects/Flixster/app/src/main/res/layout-land/item_movie.xml" value="0.22522522522522523" />
+        <entry key="..\:/Users/q8659/AndroidStudioProjects/Flixster/app/src/main/res/layout/activity_detail.xml" value="0.536" />
         <entry key="..\:/Users/q8659/AndroidStudioProjects/Flixster/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/q8659/AndroidStudioProjects/Flixster/app/src/main/res/layout/item_movie.xml" value="0.536" />
+        <entry key="..\:/Users/q8659/AndroidStudioProjects/Flixster/app/src/main/res/layout/item_movie.xml" value="0.4" />
       </map>
     </option>
   </component>
