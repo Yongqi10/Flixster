@@ -20,7 +20,10 @@
 
 ### App Walkthough GIF
 
-<img src="https://github.com/Yongqi10/Flixster/blob/main/3.gif" width=250><br
+<img src="https://github.com/Yongqi10/Flixster/blob/main/3.gif" width=250><br>
+## Open-source libraries used
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 
 ## Flix Part 1
